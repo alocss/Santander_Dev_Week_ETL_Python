@@ -2,7 +2,7 @@
 
 💻 Software Devoleper.
 
-📚 Estudando Pyhton | Djando | Ciência de Dados | SQL | JavaScript.
+📚 Estudando Pyhton \ Djando \ Ciência de Dados \ SQL \ JavaScript.
 
 📲 Marketing Digital. 
 
