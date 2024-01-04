@@ -1,12 +1,11 @@
 # Eai ! Eu sou o Alex Ribeiro.
 
-💻 Futuro DEV ( mais perto do que nunca ).
+💻 Software Devoleper.
 
-📚 Estudando Pyhton.
+📚 Estudando Pyhton | Djando | Ciência de Dados | SQL | JavaScript.
 
 📲 Marketing Digital. 
 
-🖥️ Ciência de Dados. 
 
 # Santander Dev_Week_ETL_Python
 
